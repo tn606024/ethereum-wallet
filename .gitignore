@@ -1,0 +1,7 @@
+.DS_Store
+wallet/.DS_Store
+wallet/key/
+tests/config.json
+config.json
+go.sum
+keystore
