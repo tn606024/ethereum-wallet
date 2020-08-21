@@ -3,9 +3,9 @@ package types
 import (
 	"encoding/json"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/ian/ethwallet/crypto"
-	"github.com/ian/ethwallet/rlp"
-	"github.com/ian/ethwallet/utils"
+	"github.com/tn606024/ethwallet/crypto"
+	"github.com/tn606024/ethwallet/rlp"
+	"github.com/tn606024/ethwallet/utils"
 	"math/big"
 )
 

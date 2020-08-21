@@ -3,7 +3,7 @@ package types
 import (
 	"encoding/json"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/ian/ethwallet/utils"
+	"github.com/tn606024/ethwallet/utils"
 	"math/big"
 )
 

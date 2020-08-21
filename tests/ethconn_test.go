@@ -1,8 +1,8 @@
 package tests
 
 import (
-	"github.com/ian/ethwallet/conn"
-	"github.com/ian/ethwallet/server"
+	"github.com/tn606024/ethwallet/conn"
+	"github.com/tn606024/ethwallet/server"
 	"net/http/httptest"
 	"testing"
 )

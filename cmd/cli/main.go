@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ian/ethwallet/cmd"
+	"github.com/tn606024/ethwallet/cmd"
 	"github.com/urfave/cli/v2"
 	"os"
 )

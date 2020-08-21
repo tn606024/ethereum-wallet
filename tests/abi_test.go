@@ -2,7 +2,7 @@ package tests
 
 import (
 	"bytes"
-	"github.com/ian/ethwallet/utils"
+	"github.com/tn606024/ethwallet/utils"
 	"testing"
 )
 

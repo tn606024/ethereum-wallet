@@ -2,7 +2,7 @@ package tests
 
 import (
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/ian/ethwallet/types"
+	"github.com/tn606024/ethwallet/types"
 )
 var (
 	TestNetwork = types.RopstenNet

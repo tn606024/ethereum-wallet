@@ -2,9 +2,9 @@ package tests
 
 import (
 	"fmt"
-	"github.com/ian/ethwallet/types"
-	"github.com/ian/ethwallet/utils"
-	"github.com/ian/ethwallet/wallet"
+	"github.com/tn606024/ethwallet/types"
+	"github.com/tn606024/ethwallet/utils"
+	"github.com/tn606024/ethwallet/wallet"
 	"testing"
 )
 

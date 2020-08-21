@@ -1,4 +1,4 @@
-module github.com/ian/ethwallet
+module github.com/tn606024/ethwallet
 
 go 1.14
 
